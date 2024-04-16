@@ -2,7 +2,7 @@
 
 O projeto “PokemonAPI” é uma aplicação web desenvolvida como um desafio pela Coodesh. Ele utiliza a PokeAPI (https://pokeapi.co/) para buscar e exibir informações sobre Pokémons e exibir informacoes.
 
-> **Live Demo:** https://temp-link.netlify.app/
+> **Live Demo:** https://coodesh-pokemon.vercel.app/
 
 > This is a challenge by [Coodesh](https://coodesh.com/)
 
