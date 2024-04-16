@@ -1,0 +1,44 @@
+* {
+  -webkit-font-smoothing: antialiased;
+}
+
+html {
+  font-family: 'Mulish';
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+/* body { overflow: hidden; } */
+
+.font-quicksand { font-family: 'Quicksand'; }
+
+.color-light { color: #c1bebe; }
+.color-lightgrey { color: #616161; }
+.color-black { color: #000000; }
+.color-white { color: #ffffff; }
+
+.link { 
+  cursor: pointer;
+  color: #00a3ff;
+}
+
+.bg-grass { background-color: #08fec3; }
+.bg-poison { background-color: #af08fe; }
+.bg-water { background-color: #00a3ff; }
+.bg-fire { background-color: #fe0808; }
+.bg-electric { background-color: #ffb800; }
+.bg-ground { background-color: #85826e; }
+.bg-fairy { background-color: #fba1ec; }
+.bg-normal { background-color: #c4c4c4; }
+.bg-flying { background-color: #5317fc; }
+.bg-default { background-color: #0e0e0e; }
+.bg-psychic { background-color: #f85888; }
+.bg-ice { background-color: #98d8d8; }
+.bg-dragon { background-color: #7038f8; }
+.bg-dark { background-color: #705848; }
+.bg-fighting { background-color: #903028; }
+.bg-rock { background-color: #b8a038; }
+.bg-bug { background-color: #a8b820; }
+.bg-ghost { background-color: #705898; }
+.bg-steel { background-color: #b8b8d0; }
+.bg-unknown { background-color: #68a090; }

@@ -14,7 +14,6 @@ import { defineNuxtPlugin, useState } from '#imports'
 export default defineNuxtPlugin((nuxt) => {
   const vueQueryState = useState<DehydratedState | null>('vue-query')
 
-  // Modify your Vue Query global settings here
   const queryClient = new QueryClient({
     defaultOptions: { queries: { staleTime: 5000 } },
   })
