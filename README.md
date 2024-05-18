@@ -4,8 +4,6 @@ O projeto “PokemonAPI” é uma aplicação web desenvolvida como um desafio p
 
 > **Live Demo:** https://coodesh-pokemon.vercel.app/
 
-> This is a challenge by [Coodesh](https://coodesh.com/)
-
 ## As funcionalidades são:
 
 - :white_check_mark: Busca por nome ou ID do Pokémon (por barra de pesquisa ou diretamente na URL: `pokemon/{id ou nome}`)
